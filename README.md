@@ -1,4 +1,4 @@
-# React Portfolio
+# React Portfolio (Currently Paused until May, 2021)
   A personal portfolio designed using React.js among other languages and frameworks.
   <br>
   Livelink: Will be provided when connected to internet.
