@@ -60,7 +60,7 @@ nav {
   background: url(./Components/bridge_purple.jpg);
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 20vh;
 }
 
 .main-info {
@@ -69,7 +69,7 @@ nav {
   top: 0;
   left: 0;
   right: 0;
-  bottom: 0;
+  /* bottom: 0; */
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -79,7 +79,7 @@ nav {
 }
 
 .typed-text {
-  font-size: 1rem;
+  font-size: 2rem;
   color: white;
 }
 
@@ -98,4 +98,12 @@ nav {
   height: 100vh;
   width: 100vw;
   z-index: 1;
+}
+
+/* Aboutme */
+
+.AboutMe {
+  border: 1px;
+  background: grey;
+  z-index: 2;
 }
