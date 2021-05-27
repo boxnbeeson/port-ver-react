@@ -1,4 +1,4 @@
-# React Portfolio (Currently Paused until May, 2021)
+# React Portfolio 
   A personal portfolio designed using React.js among other languages and frameworks.
   <br>
   Livelink: Will be provided when connected to internet.
@@ -7,7 +7,7 @@
 
   ## <a name="toc">Table of Contents</a>
   * [Developer's Information](#devInfo)
-  * [Credientials](#credientials)
+  * [Credentials](#credentials)
   * [License](#license)
 
   ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
@@ -21,9 +21,11 @@
   <br>
   Email: boxnbeeson.jp@gmail.com
 
-  ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="credentials">Credentials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
 
-  Don't forget to add and link all information sources!
+  Followed 80/20 Coding's <i>React JS & Bootstrap 4</i> [Tutorial](https://www.youtube.com/watch?v=vD72tRK8mC4&t=1748s)
+  <br>
+  [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
   ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   MIT (subject to change?)
