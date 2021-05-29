@@ -21,7 +21,7 @@ const Navbar = () => {
                             <a className="nav-link" href="#">Portfolio</a>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="#">Resume</a>
+                            <a className="nav-link" href="./JacobBeesonResume.pdf" target="_blank" download>Resume</a>
                         </li>
                         <li className="nav-item active">
                             <a className="nav-link" href="#">Contact Me</a>

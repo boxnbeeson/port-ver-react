@@ -86,6 +86,7 @@ nav {
 .btn-main-offer {
   border: 1px solid white;
   border-radius: 1rem;
+  background-color: indigo;
   padding: 0.625rem 0.75rem 0.75rem 0.75rem;
   color: white;
 
@@ -102,8 +103,82 @@ nav {
 
 /* Aboutme */
 
-.AboutMe {
-  border: 1px;
-  background: grey;
-  z-index: 2;
+
+.MeImg {
+  width: 16rem;
+  border-radius: 50%;
+  padding: .3rem;
+  border: 1px solid;
+  border-color: indigo;
+}
+
+.MeImgWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutHeader {
+  color: indigo;
+}
+
+/* Portfolio */
+
+.portfolioHeader {
+  color: white;
+}
+.portfolio-wrapper {
+  background:indigo;
+  padding: 3rem 0;
+}
+
+.portfolio-image {
+  width: 15rem;
+  border: 1px solid;
+  border-color: indigo;
+  padding: 0 0.5rem;
+}
+
+.portfolio-image-box {
+  position: relative;
+  margin: 1rem;
+  width: 20rem;
+}
+
+.overflow {
+  position: absolute;
+  opacity: 0;
+  background-color: black;
+  width: 15rem;
+  height: 10rem;
+  top: 0;
+  border: 1px solid;
+  border-color: black;
+  cursor: pointer;
+}
+
+.portfolio-image-box:hover .overflow {
+  opacity: 60%;
+  transition: 0.3s ease-in-out;
+}
+
+.portfolio-image-popupbox {
+  width: 45rem;
+  padding: 0 0.5rem;
+}
+
+/* Contact Me */
+
+.contactMe {
+  padding: 3rem 0;
+}
+
+.contactMe h1 {
+  color: indigo;
+  padding: 1.3rem 0;
+}
+
+.contactMe p {
+  color: indigo;
+  font-size: 1.2rem;
 }
