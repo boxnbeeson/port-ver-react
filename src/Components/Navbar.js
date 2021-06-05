@@ -1,5 +1,6 @@
 import React from "react";
 import Logo from "./LogoMockup.png";
+import Resume from "./JacobBeesonResume.pdf";
 
 const Navbar = () => {
     return (
@@ -21,7 +22,7 @@ const Navbar = () => {
                             <a className="nav-link" href="#">Portfolio</a>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="./JacobBeesonResume.pdf" target="_blank" download>Resume</a>
+                            <a className="nav-link" href={Resume} target="_blank" rel="noreferrer">Resume</a>
                         </li>
                         <li className="nav-item active">
                             <a className="nav-link" href="#">Contact Me</a>
