@@ -1,9 +1,9 @@
 # React Portfolio 
-  A personal portfolio designed using React.js among other languages and frameworks.
+  A personal portfolio designed using React.js and Bootstrap, along with othre useful Javascript dependencies.
   <br>
   Livelink: https://jbeesonreactportfolio.herokuapp.com/
   
-  ![](insert screenshots/gifs here)
+  ![](./reactPortfolio.gif)
 
   ## <a name="toc">Table of Contents</a>
   * [Developer's Information](#devInfo)
@@ -28,4 +28,4 @@
   [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
   ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
-  MIT (subject to change?)
+  MIT
